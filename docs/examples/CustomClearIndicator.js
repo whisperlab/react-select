@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-import Select from 'react-select';
+import Select from '@whisperlab/react-select';
 import { colourOptions } from '../data';
 
 const CustomClearText = () => 'clear all';

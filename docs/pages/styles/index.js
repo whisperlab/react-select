@@ -9,7 +9,7 @@ import {
   StyleCompositionExample,
 } from '../../examples';
 import { ColorSample } from '../../styled-components';
-import { defaultTheme } from 'react-select';
+import { defaultTheme } from '@whisperlab/react-select';
 
 export default function Styles() {
   return (

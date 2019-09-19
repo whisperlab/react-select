@@ -1,6 +1,6 @@
 {
   "name": "@whisperlab/react-select",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "description": "A Select control built with and for ReactJS",
   "main": "dist/react-select.cjs.js",
   "module": "dist/react-select.esm.js",
@@ -20,7 +20,7 @@
     "memoize-one": "^5.0.0",
     "prop-types": "^15.6.0",
     "raf": "^3.4.0",
-    "react-input-autosize": "^2.2.1",
+    "@whisperlab/react-input-autosize": "^2.2.2",
     "react-transition-group": "^2.2.1"
   },
   "devDependencies": {

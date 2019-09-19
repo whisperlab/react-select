@@ -111,7 +111,7 @@ export default function Components() {
 
         ~~~jsx
         import React from 'react';
-        import Select from 'react-select';
+        import Select from '@whisperlab/react-select';
 
         const CustomOption = ({ innerProps, isDisabled }) =>
           !isDisabled ? (

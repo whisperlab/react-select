@@ -1,6 +1,6 @@
 import React from 'react';
 import { css } from 'emotion';
-import Select from 'react-select';
+import Select from '@whisperlab/react-select';
 import { colourOptions } from '../data';
 
 const Option = (props: OptionProps) => {

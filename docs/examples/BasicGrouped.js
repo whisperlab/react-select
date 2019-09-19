@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Select from 'react-select';
+import Select from '@whisperlab/react-select';
 import { colourOptions, groupedOptions } from '../data';
 
 const groupStyles = {

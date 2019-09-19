@@ -1,8 +1,8 @@
 import React, { Component, type ElementRef, Fragment } from 'react';
 
-import Select from 'react-select';
-import AsyncSelect from 'react-select/async';
-import CreatableSelect from 'react-select/creatable';
+import Select from '@whisperlab/react-select';
+import AsyncSelect from '@whisperlab/react-select/async';
+import CreatableSelect from '@whisperlab/react-select/creatable';
 
 import { Note } from '../styled-components';
 import { colourOptions } from '../data';

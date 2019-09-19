@@ -1,5 +1,5 @@
 {
-  "name": "react-select",
+  "name": "@whisperlab/react-select",
   "version": "3.0.4",
   "description": "A Select control built with and for ReactJS",
   "main": "dist/react-select.cjs.js",
